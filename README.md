@@ -4,6 +4,9 @@ This project is a simple **Class Time Table web page** designed using **HTML and
 It presents a clear, structured weekly timetable.
 
 ---
+🔗 **Live Demo**: 
+
+https://pavithra-devadiga.github.io/Class_TT/
 
 ## 📌 Project Overview
 
